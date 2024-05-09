@@ -1,0 +1,7 @@
+05/07/2024 20:17:44 => [Debug] Debug started for file: Main
+05/07/2024 20:17:45 => [Info] RPADev-S06P02-SetData-VB execution started
+05/07/2024 20:17:45 => [Info] RPADev-S06P02-SetData-VB.Main.Begin;
+05/07/2024 20:17:45 => [Debug] Audit: Using Web App. Browser: Firefox URL: http://www.rpachallenge.com/
+05/07/2024 20:18:21 => [Info] RPADev-S06P02-SetData-VB.Main.OperationCompleted; Records Processed: 10
+05/07/2024 20:18:21 => [Info] RPADev-S06P02-SetData-VB.Main.End;
+05/07/2024 20:18:21 => [Info] RPADev-S06P02-SetData-VB execution ended in: 00:00:36

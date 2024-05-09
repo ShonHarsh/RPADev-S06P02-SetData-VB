@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S06P02 Set Data
 
 This project is my solution in **VB** to the **Set Data** practice found in section 06 practice 02 of the UiPath - RPA Developer Foundation course.
@@ -34,7 +34,13 @@ Create a workflow that fills in the fields of a website with organized data that
 ### Sample Output
 
 ```
-
+05/07/2024 20:17:44 => [Debug] Debug started for file: Main
+05/07/2024 20:17:45 => [Info] RPADev-S06P02-SetData-VB execution started
+05/07/2024 20:17:45 => [Info] RPADev-S06P02-SetData-VB.Main.Begin;
+05/07/2024 20:17:45 => [Debug] Audit: Using Web App. Browser: Firefox URL: http://www.rpachallenge.com/
+05/07/2024 20:18:21 => [Info] RPADev-S06P02-SetData-VB.Main.OperationCompleted; Records Processed: 10
+05/07/2024 20:18:21 => [Info] RPADev-S06P02-SetData-VB.Main.End;
+05/07/2024 20:18:21 => [Info] RPADev-S06P02-SetData-VB execution ended in: 00:00:36
 ```
 
 ### Notes
